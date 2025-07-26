@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Ryan Johnson
 
 🎓 **Computer Science Student** @ [Stevens Institute of Technology](https://www.stevens.edu/)  
-🛰️ **NASA Space Apps Global Finalist** (Top 0.4%)  
-🏆 **Congressional App Challenge Winner (NJ-02, 2023)**  
-🔐 **Cybersecurity Intern | DevOps + Red Teaming | AI Advocate**  
+🛰️ **NASA Space Apps Global Finalist** 
+🏆 **Congressional App Challenge Winner 
 
 ---
 
