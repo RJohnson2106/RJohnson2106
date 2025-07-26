@@ -34,7 +34,7 @@
 
 ## 🔧 Tech Stack & Tools
 
-** Languages: **
+**Languages:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -43,7 +43,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 ![XML](https://img.shields.io/badge/XML-0060AC?style=flat&logo=w3c&logoColor=white)
 
-** Frameworks & Tools: **
+**Frameworks & Tools:**
 ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)  
