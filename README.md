@@ -36,15 +36,6 @@ Congressional App Challenge Winner
 
 ---
 
-## 🛠️ Experience
-
-**Cybersecurity Intern @ South Jersey Industries**  
-- Automated IP analysis with PowerShell GUI  
-- Reduced manual work by 95% for 10+ analysts  
-- Supported red teaming and threat simulation workflows
-
----
-
 ## 📣 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-johnson-559b822b6)  
@@ -58,3 +49,5 @@ Congressional App Challenge Winner
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RJohnson2106&layout=compact&hide=tex)
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=RJohnson2106&style=flat&color=green)
