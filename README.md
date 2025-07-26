@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Student** @ [Stevens Institute of Technology](https://www.stevens.edu/)  
 🛰️ **NASA Space Apps Global Finalist** 
-🏆 **Congressional App Challenge Winner 
+🏆 **Congressional App Challenge Winner**
 
 ---
 
