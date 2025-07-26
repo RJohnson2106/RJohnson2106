@@ -50,8 +50,8 @@ Congressional App Challenge Winner
 
 ## 📊 GitHub Stats
 
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RJohnson2106&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RJohnson2106&layout=compact&hide=tex)
+![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RJohnson2106&show_icons=true&theme=merko )  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RJohnson2106&layout=compact&hide=tex&theme=merko)
 
 ---
 
