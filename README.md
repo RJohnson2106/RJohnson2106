@@ -6,6 +6,28 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/RJohnson2106">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-View-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ryan-johnson-559b822b6/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:privateryan112106@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br />
+  <a href="https://www.youtube.com/@RyanJohnson-rw8wx">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-View-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@realryanjohnson>
+    <img alt="TikTok" src="https://img.shields.io/badge/TikTok-View-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
 ## 🔧 Tech Stack & Tools
 
 **Languages:**  
