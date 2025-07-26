@@ -23,6 +23,10 @@
   <a href="https://www.tiktok.com/@realryanjohnson>
     <img alt="TikTok" src="https://img.shields.io/badge/TikTok-View-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
+  <a href="https://devpost.com/RJohnson2106">
+    <img alt="Devpost" src="https://img.shields.io/badge/Devpost-Projects-003E54?style=for-the-badge&logo=devpost&logoColor=white" />
+  </a>
+
 </p>
 
 
