@@ -53,6 +53,9 @@ Congressional App Challenge Winner
 ![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RJohnson2106&show_icons=true&theme=merko )  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RJohnson2106&layout=compact&hide=tex&theme=merko)
 
+![GitHub Skyline](https://metrics.lecoq.io/embed?user=RJohnson2106&plugins=skyline&theme=merko)
+
+
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RJohnson2106&style=flat&color=green)
