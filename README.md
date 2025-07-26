@@ -25,8 +25,8 @@
 
 ## 🌟 Experience Highlights
 
-South Jersey Industries – Cybersecurity Intern: PowerShell, DevOps, Threat Analysis, Incident Response, GUI Development 🛡️  
-Stevens Society of Artificial Intelligence – Cofounder & PR Chair: Club Leadership, Outreach, Community Building, AI Advocacy 🤖
+**South Jersey Industries** – Cybersecurity Intern: PowerShell, DevOps, Threat Analysis, Incident Response, GUI Development 🛡️  
+**Stevens Society of Artificial Intelligence** – Cofounder & PR Chair: Club Leadership, Outreach, Community Building, AI Advocacy 🤖
 
 ---
 
@@ -45,7 +45,6 @@ Congressional App Challenge Winner
 ## 📣 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-johnson-559b822b6)  
-📫 Email: [privateryan112106@gmail.com](mailto:privateryan112106@gmail.com)
 
 ---
 
