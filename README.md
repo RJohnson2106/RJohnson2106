@@ -1,6 +1,7 @@
+<div align="center">
+
 # 👋 Hi, I'm Ryan Johnson
 
-<div align="center">
   
 🎓 **Computer Science Student** @ [Stevens Institute of Technology](https://www.stevens.edu/)  
 🛰️ **NASA Space Apps Global Finalist**  
