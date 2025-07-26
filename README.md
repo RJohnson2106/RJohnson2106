@@ -64,12 +64,6 @@ Congressional App Challenge Winner
 
 ---
 
-## 📣 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-johnson-559b822b6)  
-
----
-
 ## 📊 GitHub Stats
 
 ![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RJohnson2106&show_icons=true&theme=merko )  
