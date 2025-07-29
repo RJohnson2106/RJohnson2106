@@ -61,7 +61,7 @@
 ## 🌟 Experience Highlights
 
 **South Jersey Industries** – Cybersecurity Intern: PowerShell, DevOps, Threat Analysis, Incident Response, GUI Development 🛡️  
-**Stevens Society of Artificial Intelligence** – Cofounder & PR Chair: Club Leadership, Outreach, Community Building, AI Advocacy 🤖
+**Stevens Society of Artificial Intelligence** – Cofounder & PR Chair: Club Leadership, Outreach, Community Building, Content Creation 🤖
 
 ---
 
