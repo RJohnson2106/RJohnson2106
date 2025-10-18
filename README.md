@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Ryan Johnson 
+#  Hi, I'm Ryan Johnson 
 
   
 🎓 **Computer Science Student** @ [Stevens Institute of Technology](https://www.stevens.edu/)  
@@ -59,14 +59,14 @@
 
 ---
 
-## 🌟 Experience Highlights
+## Experience Highlights
 
 **South Jersey Industries** – Cybersecurity Intern: PowerShell, DevOps, Threat Analysis, Incident Response, GUI Development 🛡️  
 **Stevens Society of Artificial Intelligence** – Cofounder & PR Chair: Club Leadership, Outreach, Community Building, Content Creation 🤖
 
 ---
 
-## 🚀 Highlight Projects
+## Highlight Projects
 
 ### 🌌 [Solus Aurora](https://github.com/RJohnson2106/Solus-Aurora)
 NASA Space Apps 2024 Global Finalist  
