@@ -1,6 +1,6 @@
 <div align="center">
   
-#  Hi, I'm Ryan Johnson 
+#  Hi, I'm Ryan Johnson.
 
   
 🎓 **Computer Science Student** @ [Stevens Institute of Technology](https://www.stevens.edu/)  
