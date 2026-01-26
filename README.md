@@ -69,12 +69,10 @@
 ## Highlight Projects
 
 ### [Solus Aurora](https://github.com/RJohnson2106/Solus-Aurora)
-NASA Space Apps 2024 Global Finalist  
-→ 3D Data Visualization of solar storms, aurora events, and tech disruptions using Three.js, custom datasets, and a full-stack JS pipeline
+NASA Space Apps 2024 Global Finalist - 3D Data Visualization of solar storms, aurora events, and tech disruptions using Three.js, custom datasets, and a full-stack JS pipeline
 
 ### [Circadian](https://github.com/RJohnson2106/Circadian)
-Congressional App Challenge Winner  
-→ Android app + wearable tracker for monitoring sleep cycles using Arduino BLE accelerometers and Java
+Congressional App Challenge Winner - Android app + wearable tracker for monitoring sleep cycles using Arduino BLE accelerometers and Java
 
 ---
 
