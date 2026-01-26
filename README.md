@@ -3,9 +3,9 @@
 #  Hi, I'm Ryan Johnson.
 
   
-🎓 **Computer Science Student** @ [Stevens Institute of Technology](https://www.stevens.edu/)  
-🛰️ **NASA Space Apps Global Finalist**  
-🏆 **Congressional App Challenge Winner**
+**Computer Science Student** @ [Stevens Institute of Technology](https://www.stevens.edu/)  
+**NASA Space Apps Global Finalist**  
+**Congressional App Challenge Winner**
 
 </div>
 
@@ -36,9 +36,9 @@
 
 ---
 
-## 🔧 Tech Stack & Tools
+## Tech Stack & Tools
 
-### 🖥️ Languages
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -49,7 +49,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-0060AC?style=flat&logo=w3c&logoColor=white)
 
-### ⚙️ Frameworks & Tools
+### Frameworks & Tools
 
 ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -68,17 +68,17 @@
 
 ## Highlight Projects
 
-### 🌌 [Solus Aurora](https://github.com/RJohnson2106/Solus-Aurora)
+### [Solus Aurora](https://github.com/RJohnson2106/Solus-Aurora)
 NASA Space Apps 2024 Global Finalist  
 → 3D Data Visualization of solar storms, aurora events, and tech disruptions using Three.js, custom datasets, and a full-stack JS pipeline
 
-### ⏰ [Circadian](https://github.com/RJohnson2106/Circadian)
+### [Circadian](https://github.com/RJohnson2106/Circadian)
 Congressional App Challenge Winner  
 → Android app + wearable tracker for monitoring sleep cycles using Arduino BLE accelerometers and Java
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RJohnson2106&show_icons=true&theme=merko )  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RJohnson2106&layout=compact&hide=tex&theme=merko)
