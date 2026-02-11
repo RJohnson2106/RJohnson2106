@@ -78,7 +78,7 @@ Congressional App Challenge Winner - Android app + wearable tracker for monitori
 
 ## GitHub Stats
 
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RJohnson2106&show_icons=true&theme=merko )  
+![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RJohnson2106&show_icons=true&theme=merko)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RJohnson2106&layout=compact&hide=tex&theme=merko)
 
 ---
